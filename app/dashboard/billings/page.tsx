@@ -26,7 +26,7 @@ const BillingsPage = () => {
           </div>
 
           <p className="mt-5 text-lg text-muted-foreground">
-            You can cancel anytime. No commitments.
+            Cancel anytime. No commitments.
           </p>
         </CardContent>
 
